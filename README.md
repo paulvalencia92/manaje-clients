@@ -18,3 +18,4 @@
 - php artisan queue:work database --queue="email" Ejecutar colas de email
 - php artisan queue:work database --queue="excel" Ejecutar colas de exportacion excel
 - php artisan queue:work database Ejecutar colas de importacion
+- Para los correos usar la configuracion de [Mailtrap](https://mailtrap.io/)
